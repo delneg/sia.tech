@@ -3,10 +3,10 @@
   translation: "О проекте"
 
 - id: title_apps
-  translation: "Download" # TODO: i18n: update translation
+  translation: "Скачать" # TODO: i18n: update translation
 
 - id: title_faq
-  translation: "FAQ" # TODO: i18n: is this translation correct?
+  translation: "ЧАВО" # TODO: i18n: is this translation correct?
 
 - id: title_getsiacoin
   translation: "Получить саякойны"
@@ -149,7 +149,7 @@
   translation: "Sia-UI (LTS)"
 
 - id: apps_uisubheader
-  translation: "For users" # TODO: translate
+  translation: "Для пользователей" # TODO: translate
 
 - id: apps_daemonheader
   translation: "Sia Daemon"
@@ -158,10 +158,10 @@
   translation: "Sia Daemon (LTS)"
 
 - id: apps_daemonsubheader
-  translation: "For developers" # TODO: translate
+  translation: "Для разработчиков" # TODO: translate
 
 - id: apps_minerheader
-  translation: "Miners" # TODO: translate
+  translation: "Для майнеров" # TODO: translate
 
 ### miner ###
 - id: apps_download
@@ -171,7 +171,7 @@
   translation: "майнер"
 
 - id: apps_miner1
-  translation: "The official GPU miner" # TODO: translate
+  translation: "Официальный GPU майнер" # TODO: translate
 
 - id: apps_altminer
   translation: "Альтернативный майнер"
@@ -180,7 +180,7 @@
   translation: "GPU майнер для Sia на Go"
 
 - id: apps_sourcecode
-  translation: "Source code on GitHub"
+  translation: "Исходный код на GitHub"
 
 ### built on sia ###
 - id: apps_builtheader
@@ -193,16 +193,16 @@
   translation: "Обозреватель блоков Sia"
 
 - id: apps_minebox
-  translation: "Next generation NAS powered by Sia" # TODO: translate
+  translation: "Следующее поколения NAS работает на Sia" # TODO: translate
 
 - id: apps_siacluster
-  translation: "Data farm monitoring and management tool for Sia" # TODO: translate
+  translation: "Средство для мониторинга и управления Data Farm" # TODO: translate
 
 - id: apps_gnomeshell
-  translation: "Sia Cloud Storage Extension for GNOME Shell" # TODO: translate
+  translation: "Расширение Sia Cloud Storage для оболочки GNOME " # TODO: translate
 
 - id: apps_siapulse
-  translation: "Analytics tool for Sia" # TODO: translate
+  translation: "Аналитическая утилита для Sia" # TODO: translate
 
 
 # URL: /faq.html
@@ -546,4 +546,4 @@
   translation: "Используйте Sia для ваших приложений" # TODO: update translation
 
 - id: getstarted_developstep5
-  translation: "Use Sia as your storage backend" # TODO: update translation
+  translation: "Использование Sia в качестве вашей системы хранения данных" # TODO: update translation
